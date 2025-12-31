@@ -6,3 +6,4 @@ python-multipart==0.0.21
 python-multipart==0.0.21
 
 >>>>>>> 28aa036dd716f892f1b75eece9720ea03ee541b5
+python-dotenv 1.2.1
